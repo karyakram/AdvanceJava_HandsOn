@@ -8,8 +8,7 @@ import com.example.demo.Employees;
 
 public class EmployeeDAO {
 
-	private static Employees list
-	= new Employees();
+	private static Employees list= new Employees();
 
 	static
 	{
